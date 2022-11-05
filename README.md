@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github page! Code is placed in repositories and you can learn more about my research on my [website](karllamothe.github.io)
+Welcome to my github page! Code is placed in repositories and you can learn more about my research on my [website](https://karllamothe.github.io/)
 
 <!--
 **KarlLamothe/karllamothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
